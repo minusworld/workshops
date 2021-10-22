@@ -16,7 +16,7 @@
 
 
 
-## Dependency modifications
+## Detect new imports
 
 
 
